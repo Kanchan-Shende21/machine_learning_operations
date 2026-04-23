@@ -32,3 +32,4 @@ model.fit(X_train, y_train)
 # 7. Accuracy
 accuracy = model.score(X_test, y_test)
 print("Model Accuracy:", accuracy)
+print("model trained successfully")
