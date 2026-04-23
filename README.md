@@ -3,6 +3,20 @@ Setting up a version control system ,training a Machine learning model,a ReadMe 
 
 #setting up a VCS.Create a Github repository for a machine learning project a)initialize repository with a ReadMe file explaining projects goal and dataset b) push a sample dataset(csvfile) to the repository. c) collaborate to clone the repository,make changes and submit a pull request.
 
+
+# ML Project Demo
+
+## Goal
+This project demonstrates a simple ML workflow using a dataset.
+
+## Dataset
+We use a sample CSV file containing data for training/testing.
+
+## Steps
+1. Load dataset
+2. Preprocess data
+3. Train model
+4. Evaluate results
 tools used:
 vs code
 mental heath datset
